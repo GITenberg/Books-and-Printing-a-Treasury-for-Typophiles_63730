@@ -1,0 +1,28 @@
+_repo: Books-and-Printing-a-Treasury-for-Typophiles_63730
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Bennett, Paul A.
+    birthdate: 1897
+    deathdate: 1966
+    gutenberg_agent_id: '52443'
+    url: http://www.gutenberg.org/2009/agents/52443
+    wikipedia: https://en.wikipedia.org/wiki/Paul_Bennett_(typographer)
+description: ''
+gutenberg_issued: '2020-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63730'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Book design'
+- !lcsh 'Book industries and trade'
+- !lcsh 'Printing'
+- !lcsh 'Printing -- Specimens'
+- !lcc 'Z'
+- GITenberg
+title: Books and Printing; a Treasury for Typophiles
+url: http://www.gutenberg.org/ebooks/63730
